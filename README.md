@@ -7,7 +7,6 @@
     <div style="text-align: center; padding-left: 15px;">AND ONCE I'M DONE, BABY, YOU KNOW</div>
     <div style="text-align: center;">THAT I'LL TAKE YOUR LEFTOVERS HOME</div>
   </div>
-  
   <br>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
