@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://airimg-worker.malandkar-sarvesh1.workers.dev/i/1RrIPil4iYNC9k7HvQSQj2TdyuEdCzWcs" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 8px;" alt="Banner"> 
   <br><br>
-  <div style="font-family: 'Impact', 'Arial Black', sans-serif; font-size: 26px; line-height: 1.3; letter-spacing: 1.5px; color: #444444;">
+  <div style="font-family: 'Impact', 'Arial Black', sans-serif; font-size: 26px; line-height: 1.3; letter-spacing: 1.5px; color: #E0E0E0;">
     <div style="text-align: center;">I CAN'T WAIT 'TIL WE'RE ALONE</div>
     <div style="text-align: center; padding-left: 40px;">PEEL BACK YOUR SKIN AND LICK YOUR BONES</div>
     <div style="text-align: center; padding-left: 15px;">AND ONCE I'M DONE, BABY, YOU KNOW</div>
